@@ -1,5 +1,5 @@
 # MSGAISALES
-## Generative AI for Sales Professionals Specialization
+## Microsoft Generative AI for Sales Professionals Specialization
 
 Unlock Your Full Sales Potential with AI
 
